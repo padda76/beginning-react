@@ -1,0 +1,13 @@
+.Githubcard-container{
+    margin: 1em;
+}
+
+.Githubcard-textblock{
+    display: inline-block;
+    margin-left: 10;
+}
+
+.Githubcard-name{
+    font-size: 1.25em;
+    font-weight: bold;
+}
